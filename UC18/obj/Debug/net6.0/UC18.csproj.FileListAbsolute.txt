@@ -1,0 +1,12 @@
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\bin\Debug\net6.0\UC18.deps.json
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\bin\Debug\net6.0\UC18.dll
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\bin\Debug\net6.0\UC18.pdb
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.csproj.AssemblyReference.cache
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.AssemblyInfoInputs.cache
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.AssemblyInfo.cs
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.csproj.CoreCompileInputs.cache
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.dll
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\refint\UC18.dll
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\UC18.pdb
+C:\Users\ic_ag\Lógica\UC18\UC18\UC18\obj\Debug\net6.0\ref\UC18.dll
